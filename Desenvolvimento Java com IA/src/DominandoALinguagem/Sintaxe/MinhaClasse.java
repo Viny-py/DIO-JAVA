@@ -1,4 +1,4 @@
-package DominandoALinguagem.Sintaxe.AnatomiaDasClasses;
+package DominandoALinguagem.Sintaxe;
 
 public class MinhaClasse {
     public static void main(String[] args) {
