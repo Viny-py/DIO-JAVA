@@ -1,0 +1,76 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMeInterativo",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.Sintaxe.AboutMeInterativo",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.Sintaxe.AboutMe",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03",
+            "args": [
+                "Vinicius",
+                "Fonseca",
+                "19",
+                "1.72"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.Sintaxe.BoletimEstudantil",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.Sintaxe.MinhaClasse",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.Sintaxe.MyClass",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.Sintaxe.Operadores",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.Sintaxe.SmartTV.User",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.Sintaxe.TiposVariaveis",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        }
+    ]
+}
