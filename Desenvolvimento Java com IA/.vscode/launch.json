@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ligacao",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.EstruturasRepeticao.Ligacao",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Doces",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.EstruturasRepeticao.Doces",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Numeros",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.EstruturasRepeticao.Numeros",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Alunos",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.EstruturasRepeticao.Alunos",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Carneirinhos",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.EstruturasRepeticao.Carneirinhos",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
             "name": "SistemaMedida",
             "request": "launch",
             "mainClass": "DominandoALinguagem.EstruturasCondicionais.SistemaMedida",
