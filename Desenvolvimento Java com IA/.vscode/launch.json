@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.EstruturasExcepcionais.FormatadorCep",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcessao",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.EstruturasExcepcionais.ExemploExcessao",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "DominandoALinguagem.EstruturasExcepcionais.SobreMim",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
             "name": "Ligacao",
             "request": "launch",
             "mainClass": "DominandoALinguagem.EstruturasRepeticao.Ligacao",
