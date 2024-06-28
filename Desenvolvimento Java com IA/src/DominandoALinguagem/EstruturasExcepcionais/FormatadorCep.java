@@ -1,9 +1,10 @@
 package DominandoALinguagem.EstruturasExcepcionais;
 
 public class FormatadorCep {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         try {
-            String cepFormatado = formatarCep("2376064");
+            String cepFormatado = formatarCep("12376064");
         } catch (CepInvalidoException e) {
             System.out.println("O cep nao corresponde com as regras");
         }
