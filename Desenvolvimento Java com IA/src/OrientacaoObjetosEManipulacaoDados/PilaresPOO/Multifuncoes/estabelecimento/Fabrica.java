@@ -7,14 +7,15 @@ import OrientacaoObjetosEManipulacaoDados.PilaresPOO.Multifuncoes.Equipamentos.I
 import OrientacaoObjetosEManipulacaoDados.PilaresPOO.Multifuncoes.Equipamentos.Impressora.Laserjet;
 import OrientacaoObjetosEManipulacaoDados.PilaresPOO.Multifuncoes.Equipamentos.Multifuncional.EquipamentoMultifuncional;
 
+@SuppressWarnings("unused")
 public class Fabrica {
     public static void main(String[] args) {
         EquipamentoMultifuncional em = new EquipamentoMultifuncional();
-        Impressora impressora = em;
         Copiadora copiadora = em;
         Digitalizadora digitalizadora = em;
 
         copiadora.copiar();
+        digitalizadora.Digitalizar();
 
     }
 }

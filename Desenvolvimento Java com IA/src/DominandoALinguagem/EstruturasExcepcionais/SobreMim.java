@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class SobreMim {
     public static void main(String[] args) {
         try {
-        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
         System.out.println("Digite seu primeiro nome: ");

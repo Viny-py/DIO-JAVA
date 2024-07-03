@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "iPhone",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.PilaresPOO.CelularLAB.iPhone.iPhone",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Autodromo",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.PilaresPOO.Veiculos.Autodromo",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
             "name": "Fabrica",
             "request": "launch",
             "mainClass": "OrientacaoObjetosEManipulacaoDados.PilaresPOO.Multifuncoes.estabelecimento.Fabrica",

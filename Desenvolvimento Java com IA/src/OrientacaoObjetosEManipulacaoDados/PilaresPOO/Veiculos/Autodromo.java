@@ -7,11 +7,11 @@ public class Autodromo {
         Kawasaki.setChassi("83462");
         fusca.setChassi("467828");
         // fusca.ligar();
-
         // Kawasaki.ligar();
 
         Veiculo brabo = fusca;
 
         fusca.ligar();
+        brabo.ligar();
     }
 }
