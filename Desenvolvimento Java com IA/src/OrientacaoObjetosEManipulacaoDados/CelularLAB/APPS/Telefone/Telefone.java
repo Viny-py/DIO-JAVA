@@ -1,4 +1,4 @@
-package OrientacaoObjetosEManipulacaoDados.PilaresPOO.CelularLAB.APPS.Telefone;
+package OrientacaoObjetosEManipulacaoDados.CelularLAB.APPS.Telefone;
 
 public interface Telefone {
     public void ligar(String numero);

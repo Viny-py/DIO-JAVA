@@ -1,4 +1,4 @@
-package OrientacaoObjetosEManipulacaoDados.PilaresPOO.CelularLAB.APPS.IPOD;
+package OrientacaoObjetosEManipulacaoDados.CelularLAB.APPS.IPOD;
 
 public class ReprodutorMusical implements IPOD {
 

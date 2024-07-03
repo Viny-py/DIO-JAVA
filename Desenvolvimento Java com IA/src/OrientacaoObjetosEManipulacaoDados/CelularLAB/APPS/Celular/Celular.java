@@ -1,8 +1,8 @@
-package OrientacaoObjetosEManipulacaoDados.PilaresPOO.CelularLAB.APPS.Celular;
+package OrientacaoObjetosEManipulacaoDados.CelularLAB.APPS.Celular;
 
-import OrientacaoObjetosEManipulacaoDados.PilaresPOO.CelularLAB.APPS.IPOD.IPOD;
-import OrientacaoObjetosEManipulacaoDados.PilaresPOO.CelularLAB.APPS.Safari.Safari;
-import OrientacaoObjetosEManipulacaoDados.PilaresPOO.CelularLAB.APPS.Telefone.Telefone;
+import OrientacaoObjetosEManipulacaoDados.CelularLAB.APPS.IPOD.IPOD;
+import OrientacaoObjetosEManipulacaoDados.CelularLAB.APPS.Safari.Safari;
+import OrientacaoObjetosEManipulacaoDados.CelularLAB.APPS.Telefone.Telefone;
 
 public class Celular implements IPOD, Safari, Telefone{
     //IPOD

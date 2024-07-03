@@ -1,4 +1,4 @@
-package OrientacaoObjetosEManipulacaoDados.PilaresPOO.CelularLAB.APPS.Safari;
+package OrientacaoObjetosEManipulacaoDados.CelularLAB.APPS.Safari;
 
 public class SafariSearchEngine implements Safari{
 
