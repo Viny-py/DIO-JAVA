@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CarrinhoDeCompras",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.Collections.List.OperacoesBasicas.CarrinhoDeCompras",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "ListaTarefa",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.Collections.List.OperacoesBasicas.ListaTarefa",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
             "name": "iPhone",
             "request": "launch",
             "mainClass": "OrientacaoObjetosEManipulacaoDados.PilaresPOO.CelularLAB.iPhone.iPhone",
