@@ -62,9 +62,6 @@ public class Produto implements Comparable<Produto>{
     public int compareTo(Produto p) {
         return nome.compareToIgnoreCase(p.getNome());
     }
-
-    
-    
 }
 
 class ComparatorPorPreco implements Comparator<Produto> {
