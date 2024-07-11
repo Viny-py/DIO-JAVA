@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Desafio19",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio19",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio18",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio18",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio17",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio17",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio16",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio16",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio15",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio15",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio14",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio14",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio13",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio13",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio12",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio12",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio11",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio11",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio10",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio10",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio9",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio9",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio8",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio8",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio7",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio7",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio6",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio6",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio5",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio5",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio4",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio4",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio3",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio3",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio2",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio2",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerExample",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.FunctionalInterfaceExamples.ConsumerExample",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "Desafio1",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio1",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
+            "name": "BinaryOperatorExample",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.FunctionalInterfaceExamples.BinaryOperatorExample",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
             "name": "LivrariaOnline",
             "request": "launch",
             "mainClass": "OrientacaoObjetosEManipulacaoDados.Collections.Map.Ordenacao.LivrariaOnline",
