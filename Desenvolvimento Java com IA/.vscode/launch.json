@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosEManipulacaoDados.DesafioBancoDIO.Main",
+            "projectName": "Desenvolvimento Java com IA_cbd03c03"
+        },
+        {
+            "type": "java",
             "name": "Desafio19",
             "request": "launch",
             "mainClass": "OrientacaoObjetosEManipulacaoDados.StreamAPI.Challenges.Desafio19",

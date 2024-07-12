@@ -1,0 +1,10 @@
+package OrientacaoObjetosEManipulacaoDados.DesafioBancoDIO;
+
+public interface InterConta {
+    void sacar(double valor);
+    void depositar(double valor);
+    void transferir(double valor, Conta contaDestino);
+    void imprimirEstrato();
+    
+}
+
